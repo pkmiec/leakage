@@ -10,3 +10,4 @@ xclass PostsController < ApplicationController
   
 end
 a
+a
