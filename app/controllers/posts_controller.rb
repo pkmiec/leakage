@@ -1,4 +1,4 @@
-class PostsController < ApplicationController
+xclass PostsController < ApplicationController
   
   def new
     @post = Post.new
